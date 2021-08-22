@@ -1,0 +1,10 @@
+<resources>
+    <color name="themeColor">#1F92F0</color>
+    <color name="bgcolor">#FFFFFF</color>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/bgcolor</item>
+        <item name="android:colorBackground">@color/bgcolor</item>
+        <item name="android:statusBarColor">@color/themeColor</item>
+        <item name="colorAccent">@color/themeColor</item>
+    </style>
+</resources>
